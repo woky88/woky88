@@ -8,7 +8,7 @@ FullStack Developer from Argentina <img src="https://user-images.githubuserconte
 &nbsp;&nbsp;
 
 
-## :star: Languages and Tools:
+## 💻 Languages and Tools:
 
 <p>
   <img width="10%" height="30px" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
@@ -89,4 +89,11 @@ FullStack Developer from Argentina <img src="https://user-images.githubuserconte
 <span >
 <a href="www.linkedin.com/in/sergio-moyano07" ><img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white"> &nbsp;
 <a href="mailto:smoyano07@hotmail.com.ar" ><img src="https://img.shields.io/badge/Gmail-EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white">
-</span>
+</span></a>
+
+<br/>
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=woky88&theme=dark&hide_border=true&include_all_commits=true&count_private=false)<br/>
+---
+[![](https://visitcount.itsvg.in/api?id=woky88&icon=0&color=0)](https://visitcount.itsvg.in)
