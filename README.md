@@ -67,6 +67,24 @@ FullStack Developer from Argentina <img src="https://user-images.githubuserconte
 
 &nbsp;
 
+### E-comics ecommerce de comics. App que permite hacer compras de los comics, dejar reviews, ver los reviews de los demas compradores, sistema de login y autenticación por google
+### Usando React, Redux, Bootstrap en el frontend y TypeScript, Node, Sequelize en el Backend
+<center>
+<p>
+ <a><img src="./assets/captura1ecomics.png" width="40%"></a>
+ <a><img src="./assets/captura2ecomics.png" width="40%"></a>
+ <a><img src="./assets/captura3ecomics.png" width="40%"></a>
+ <a><img src="./assets/captura4ecomics.png" width="40%"></a>
+</p> 
+</center>
+<center><h2>Press to go deploy</h2></center>
+<center>
+<a href="https://e-comics.vercel.app/"><img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/misc/web.svg" />
+</a>
+</center>
+
+&nbsp;
+
 ## :paperclip: How to reach me:
 <span >
 <a href="www.linkedin.com/in/sergio-moyano07" ><img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white"> &nbsp;
