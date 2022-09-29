@@ -87,7 +87,7 @@ FullStack Developer from Argentina <img src="https://user-images.githubuserconte
 
 ## :paperclip: How to reach me:
 <span >
-<a href="www.linkedin.com/in/sergio-moyano07" ><img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white"> &nbsp;
+<a href="www.linkedin.com/in/sergio-moyano07" target="_blank" ><img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white"> &nbsp;
 <a href="mailto:smoyano07@hotmail.com.ar" ><img src="https://img.shields.io/badge/Gmail-EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white">
 </span></a>
 
